@@ -3,5 +3,5 @@ scikit-learn
 numpy
 xgboost
 imbalanced-learn
-pandas==1.3.3
+pandas==1.5.3
 
