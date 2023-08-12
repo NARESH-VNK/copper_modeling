@@ -111,3 +111,8 @@ Learn and apply advanced machine learning techniques for regression and classifi
 
 - By the end of the project, a fully functional machine learning model and Streamlit web application is available.
 -  The web application will provide valuable insights and predictions to users, allowing them to make informed decisions regarding copper pricing and lead prioritization.
+
+
+## Deployment App
+
+https://coppermodeling-sd.streamlit.app/
