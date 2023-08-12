@@ -1,4 +1,5 @@
 import streamlit as st
+import sklearn
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
@@ -13,7 +14,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.metrics import accuracy_score, classification_report,confusion_matrix
 from imblearn.combine import SMOTETomek
 import pickle
-import sklearn
+
 
 
 # Unpickle the data :
